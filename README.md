@@ -5,11 +5,11 @@ Entusiasta e apaixonado por tecnologia, cinema e futebol. Cursando Análise e De
 Dedico o meu tempo livre focando em estudos dentro da área de programação. Além da graduação, atualmente estou estudando linguagem C# (linguagem usada no primeiro semestre na faculdade) e fazendo bootcamp na @DIO focado em back end (linguagem Java). 
 
 Para me encontrar nas redes sociais, deixo abaixo o link:
-- [Instagram](instagram.com/maiconsb) </a>
+- [Instagram](instagram.com/maiconsb)  </a>
 - [Facebook](facebook.com/maiconsb) </a>
 
 Deixo também o meu e-mail para contato. 
-- Email: maiconsb2041@gmail.com </a>
+- :email: Email: maiconsb2041@gmail.com </a>
 
 Considero-me uma pessoa detalhista, comunicativa, amo o trabalho em equipe, e sempre priorizo o comprometimento em realizar um trabalho bem sucedido. Busco agregar ao meu time com conhecimento e dedicação. Acredito que sem equipe, não há trabalho. Sem esforço, não há resultado.
 
