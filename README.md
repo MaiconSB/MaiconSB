@@ -21,8 +21,6 @@ Para me encontrar nas redes sociais, deixo abaixo o link:
 Deixo o meu portfólio para análise: 
 - [Portfolio](https://maiconsb.github.io) </a>
 
-Deixo também o meu e-mail para contato. 
-- :email: Email: maiconsb2041@gmail.com </a>
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
